@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 # ITIL v4 und Scrum: Das Power-Duo für modernes IT-Management
-*Wie Agilität und Struktur Hand in and gehen (06.25)* 
+*Wie Agilität und Struktur Hand in Hand gehen (06.25)* 
 
 Willkommen zu dieser Beitragsreihe zur agilen Transformation!
 
