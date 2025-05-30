@@ -1,4 +1,4 @@
 ## II. Die Herausforderung: Agilität vs. Stabilität 
-### Ein vermeintlicher Konikt
+### Ein vermeintlicher Konfikt
 
 Viele Unternehmen stehen vor dem Dilemma: Einerseits erfordert der Markt eine immer schnellere und flexiblere Entwicklung von Produkten und Services (Agilität). Andererseits sind stabile, zuverlässige und gut gemanagte IT-Services unerlässlich für den reibungslosen Geschäftsbetrieb (Stabilität). Oft werden Frameworks wie Scrum (für Agilität) und ITIL (für Stabilität) als gegensätzlich wahrgenommen, was zu Silodenken und ineffizienten Prozessen führen kann. Wie lassen sich diese scheinbaren Gegensätze überwinden, um eine kohärente und wertschöpfende IT-Organisation zu schaffen?
