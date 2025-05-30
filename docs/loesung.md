@@ -2,13 +2,13 @@
 
 ### ITIL v4 und Scrum in Harmonie
 
-1. **ITIL v4: Das agile Framework für Service Management**
+1. **ITIL v4: Das agile Framework für Service Management** - 
 ITIL v4 hat sich von einem prozesslastigen Regelwerk zu einem flexiblen, wertorientierten Framework entwickelt. Die 7 Guiding Principles (z.B. "Focus on Value", "Progress iteratively with feedback", "Collaborate and promote visibility") spiegeln eine inhärente Agilität wider. Die Service Value Chain (SVC) – Plan, Improve, Engage, Design & Transition, Obtain/Build, Deliver & Support – ist ein flexibles Modell, das den End-to-End-Wertfluss beschreibt und sich nahtlos in agile Arbeitsweisen integrieren lässt.
 
-2. **Scrum: Der Motor für iterative Wertlieferung**
+2. **Scrum: Der Motor für iterative Wertlieferung** - 
 Scrum ist ein leichtgewichtiges Framework, das Teams befähigt, in kurzen, iterativen Zyklen (Sprints) hochwertige Produktinkremente zu liefern. Die klaren Rollen (Product Owner, Scrum Master, Development Team), Events (Sprint Planning, Daily Scrum, Review, Retrospective) und Artefakte (Product Backlog, Sprint Backlog, Increment) fördern Transparenz und Anpassungsfähigkeit.
 
-3. **Die Synergien: Wie ITIL v4 und Scrum sich perfekt ergänzen**
+3. **Die Synergien: Wie ITIL v4 und Scrum sich perfekt ergänzen** - 
 ITIL als "Betriebssystem", Scrum als "App": ITIL v4 bietet den strategischen und operativen Rahmen für das gesamte IT Service Management, während Scrum die dynamische
 Entwicklung und Lieferung von Services und Produkten innerhalb dieses Rahmens ermöglicht.
 
